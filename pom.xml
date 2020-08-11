@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>b25.demo</groupId>
   <artifactId>b25</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <version>1.0</version>
   <name>b25</name>
   <url>http://maven.apache.org</url>
